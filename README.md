@@ -6,3 +6,6 @@
  __感觉好玩就点个星吧__
  
  ## 官网：paixiaobeibi.github.io
+
+```
+Super！
